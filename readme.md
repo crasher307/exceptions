@@ -2,7 +2,6 @@
 
 <details class="desc" data-name="lesson1"><summary>Урок 1. Обработка ошибок в программировании</summary>
 
-[Работа во время семинара][work1]\
 [Домашнее задание][home1]
 
 1. Реализуйте 3 метода, чтобы в каждом из них получить разные исключения.
@@ -19,7 +18,6 @@
 
 <details class="desc" data-name="lesson2"><summary>Урок 2. Исключения и их обработка</summary>
 
-[Работа во время семинара][work2]\
 [Домашнее задание][home2]
 
 1. Реализуйте метод, который запрашивает у пользователя ввод дробного числа (типа float), и возвращает
@@ -34,7 +32,6 @@
 
 <details class="desc" data-name="lesson3"><summary>Урок 3. Продвинутая работа с исключениями в Java</summary>
 
-[Работа во время семинара][work3]\
 [Домашнее задание][home3]
 
 Напишите приложение, которое будет запрашивать у пользователя следующие данные в произвольном порядке,
@@ -95,9 +92,6 @@ class Пользователь {
 
 </details>
 
-[work1]: src/main/java/lesson1/work/
 [home1]: src/main/java/lesson1/homework/
-[work2]: src/main/java/lesson2/work/
 [home2]: src/main/java/lesson2/homework/
-[work3]: src/main/java/lesson3/work/
 [home3]: src/main/java/lesson3/homework/
